@@ -1,6 +1,9 @@
-# Pytorch_kopalnia
+# Pytorch_tutorial
 
-## Kopalnia rzeczy związanych z Pytorch. Adaptacje tutoriali, projekty, etc.
+## Szybki tutorial Pytorch n wszelki wypadek.
 
-<b>Obecnie Work in Progress</b>:
+<b>Done</b>:
 - <i>Pytorch_szybcior</i> - szybki tutorial Pytorch żeby nie błądzić w ciemności na zaliczeniu
+
+<b>Work in Progress</b>:
+- <i>Maszynka.py</i> - wiedza z tutoriala w formie dobrze okomentowanego projektu
